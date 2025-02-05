@@ -1,0 +1,23 @@
+Setup & Installation
+Follow these steps to set up the simulation environment:
+
+1️⃣ Install Network Simulator (NS-2)
+sudo apt-get update
+sudo apt-get install ns2 nam
+
+2️⃣ Clone the Repository
+git clone https://github.com/yourusername/Network-Topology-Simulation.git
+cd Network-Topology-Simulation
+
+3️⃣ Run the Simulations
+ns star_topology.tcl
+nam out.nam
+
+To run the Ring Topology simulation:
+ns ring_topology.tcl
+nam out.nam
+
+To run the Bus Topology simulation:
+ns bus_topology.tcl
+nam out.nam
+
