@@ -1,0 +1,9 @@
+Project Structure
+
+📂 Network-Topology-Simulation
+│── 📜 README.md          # Project documentation
+│── 📜 star_topology.tcl  # Simulation script for Star Topology
+│── 📜 ring_topology.tcl  # Simulation script for Ring Topology
+│── 📜 bus_topology.tcl   # Simulation script for Bus Topology
+│── 📂 screenshots        # Network simulation screenshots
+│── 📜 report.pdf         # Detailed project report
